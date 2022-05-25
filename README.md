@@ -5,6 +5,8 @@ demo git
 abc  
 bbc
 
-...
-chèn code vào
-...
+'''
+var xinChao=function(ten="hello"){
+    return "Xin chao: "+ten;
+}
+'''
