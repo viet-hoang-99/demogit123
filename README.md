@@ -5,8 +5,4 @@ demo git
 abc  
 bbc
 
-'''
-var xinChao=function(ten="hello"){
-    return "Xin chao: "+ten;
-}
-'''
+
